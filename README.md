@@ -17,7 +17,7 @@ This project demonstrates my ability to build a robust ETL (Extract, Transform, 
 - **Data Loading:** Connected to Snowflake using Snowpark and securely loaded the cleaned data into a cloud database table.
 - **Python Programming:** Utilized Pandas for data manipulation and Snowflake’s Snowpark library for cloud integration.
 - **Environment Management:** Created and managed a dedicated Conda environment for reproducibility and dependency management.
-- **Documentation:** Documented the entire ETL process in a well-structured Jupyter Notebook and summarized the workflow in a PowerPoint presentation.
+- **Documentation:** Clearly explained the ETL process in both a Jupyter Notebook and a PowerPoint presentation (see below).
 
 ---
 
@@ -44,9 +44,9 @@ This project demonstrates my ability to build a robust ETL (Extract, Transform, 
 ## Documentation
 
 - **Jupyter Notebook:**  
-  The entire ETL process is documented step-by-step in the notebook `ETL_Data_Pipeline_with_Python.ipynb`, with code, outputs, and explanations.
+  The ETL process is documented step-by-step in the notebook `ETL_Data_Pipeline_with_Python.ipynb`, with code, outputs, and concise explanations.
 - **PowerPoint Presentation:**  
-  Summarized the project workflow, challenges, and solutions in a PowerPoint deck for clear communication and reporting.
+  The project workflow, challenges, and solutions are explained in detail in the PowerPoint deck for clear communication and reporting.
 
 ---
 
