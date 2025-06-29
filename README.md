@@ -4,6 +4,8 @@
 
 This project demonstrates my ability to build a robust ETL (Extract, Transform, Load) data pipeline using Python and Snowflake. It was completed as part of a challenge for Digital Native, showcasing my skills in data engineering, data cleaning, and cloud data warehousing.
 
+View My Entire [Slide Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTaFDmP-qz-UffsoaBtPeI9bFRLf49utcovIrVAGetBs-HiluC2MywE3LWIlScdVQ/pub?start=false&loop=false&delayms=3000) on how I tackled this Challenge.
+
 ---
 
 ## Skills Demonstrated
